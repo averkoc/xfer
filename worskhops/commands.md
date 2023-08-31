@@ -25,3 +25,5 @@
 | Archive (create) | tar -czvf  | tar -czvf webpages.tz /var/www  |
 | Archive (list) | tar -tzvf | tar -tzvf  webpages.tz  |
 | Archive (extract) | tar -xzvf | tar -xzvf webpages.tz  #extracts to current directory  |
+| Connect to server | ssh | ssh student@192.168.56.10  #Connects to local server  |
+
