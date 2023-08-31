@@ -1,5 +1,5 @@
 
-| Task                              | Command               | Examples comments preceded by #                   |
+| Task                              | Command               | Examples - comments preceded by #                   |
 |-----------------------------------|-----------------------|---------------------------------------------------|
 | **List directory contents**           | ls                    | ls -a  #shows also hidden files (starts with .)   |
 | **Make a directory**                  | mkdir                 | mkdir ~/workshops #created under home folder      |
