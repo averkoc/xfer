@@ -1,1 +1,1 @@
-# xfer - misc work files tranfers rep
+# xfer - misc work files for transfers
